@@ -12,7 +12,7 @@ This repository mainly stores an implementation of the Prefix Sum aglorithm in
 the `prefix_sum.cpp` file. This implementation is computed using the POSIX pthreads
 library, in which the computations are done in parallel. 
 
-### Parallel Iterative Pi Computations
+### Parallel Iterative $\pi$ Computations
 This repository includes implementations of parallel `C++` code that computes the value
 of $\pi$ in parallel. 
 The `prll_pi_nosync.cpp` file shows the negative effects of no synchronization methods,
